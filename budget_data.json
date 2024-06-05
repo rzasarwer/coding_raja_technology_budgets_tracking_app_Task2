@@ -1,0 +1,14 @@
+[
+    {
+        "type": "income",
+        "category": "salary",
+        "amount": 10000.0,
+        "date": "2024-01-30"
+    },
+    {
+        "type": "expense",
+        "category": "rent,food,travales",
+        "amount": 8000.0,
+        "date": "2024-01-31"
+    }
+]
